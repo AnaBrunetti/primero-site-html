@@ -1,0 +1,293 @@
+   /* Pagina Inicial */
+
+
+.p1 { background: white;
+     opacity:0.90;
+	 padding-top: 60px;
+	 padding-right: 30px;
+	 padding-bottom: 30px;
+	 padding-left: 20px;
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border: #088A4B;
+	 border-style: solid;
+	 
+}
+
+.p2 { background:#088A4B;
+     
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+    
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border-left-color: #088A4B; 
+	 border-right-color: #088A4B ;
+	 border-top-color: #E6E6E6 ; 
+	 border-bottom-color: #E6E6E6;
+	 border-style: solid;
+
+
+}
+
+.pidx { background:#088A4B;
+     
+     padding-top: 20px;
+     padding-bottom: 20px;
+     padding-left: 20px;
+    
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	  border: #088A4B;
+	 border-style: solid;
+
+
+}
+
+.p3 { background: white;
+     opacity:0.90;
+	 padding-top: 75px;
+	 padding-right: 30px;
+	 padding-bottom: 50px;
+	 padding-left: 30px;
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border: #088A4B;
+	 border-style: solid;
+
+
+}
+
+.p4 {
+
+	background: #F2F2F2;
+	 padding-top: 20px;
+	 padding-right: 50px;
+	 padding-bottom:80px;
+	 padding-left: 50px;
+
+	 margin-left: 100px;
+	 margin-right: 100px;
+	 margin-top: 20px;
+	 margin-bottom: 0;
+
+     border: #D8D8D8;
+	 border-style: solid;
+    
+     
+   }
+
+
+ .titulo1 { color:   #088A4B;
+ 	        font-size: 50px;
+ 	        font-family:  Palatino Linotype;
+ 	        line-height: 0;
+
+ }
+.sub1     {  color: #585858;
+	         font-size: 18px;
+	         font-family: Georgia;
+
+
+}
+
+a, a:visited { 
+	    font-size: 16px;
+	    font-family: verdana;
+	    text-decoration: none;
+
+
+}
+body { background-color: #006400;
+       background-image: url(walp12.jpg);
+
+}
+
+
+             
+
+.not2 { font-family: verdana;
+	    font-size: 30px;
+	    text-align: center;
+		
+		
+		
+
+}
+.ima1:hover { opacity: 0.8;
+              
+              
+	
+	
+	
+}
+
+.ima1 { display: block;
+        margin-left: auto;
+        margin-right: auto;
+	     
+		
+	
+}
+
+
+.men1 { padding: 25px 80px;
+        color: white;
+  
+	
+	
+}
+
+
+
+.pe { background:#088A4B;
+     
+     padding-top: 20px;
+     padding-bottom: 20px;
+     padding-left: 10px;
+    
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border-left-color: #088A4B; 
+	 border-right-color: #088A4B ;
+	 border-top-color: #E6E6E6 ; 
+	 border-bottom-color: #E6E6E6;
+	 border-style: solid;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+/* link que nois apanho */
+
+.link1 {color:black;
+}
+
+.link1:hover {color: green;
+    
+	
+	
+	
+}
+
+   /* Pagina Duvidas */
+   
+   
+   
+ .p5 {
+
+	 background: #F2F2F2;
+	 padding-top: 50px;
+	 padding-right: 50px;
+	 padding-bottom:100px;
+	 padding-left: 50px;
+
+	 margin-left: 20px;
+	 margin-right: 250px;
+	 margin-top: 20px;
+	 margin-bottom: 0;
+	 
+	 border: #D8D8D8;
+	 border-style: solid;
+  }
+  
+    /* Pagina Noticias */
+	
+	
+	
+	
+	
+.p6 { background: #F2F2F2;
+	 padding-top: 50px;
+	 padding-right: 50px;
+	 padding-bottom:100px;
+	 padding-left: 50px;
+	
+
+	
+}	
+
+.titu1 { text-align: center;
+	
+	
+	
+	
+	
+}
+
+
+p { font-family:  Calibri;
+    
+   
+	
+	
+	
+	
+	
+	
+	
+}
+
+h1 { font-family: Calibri
+	
+	
+	
+}
+
+.p6{ border: #D8D8D8;
+	 border-style: solid;
+	
+	
+	
+}
+ #pe { color: white;
+       text-align: center;
+	   opacity: 0.6;
+	 
+	 
+ } 
+
+ .linha { opacity: 0.5;
+	 
+	 
+ }
+ 
+ /* Pagina Quem Somos */
+ 
+ .pqs { background: white;
+     opacity:0.90;
+	 padding-top: 100px;
+	 padding-right: 30px;
+	 padding-bottom: 500px;
+	 padding-left: 30px;
+
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border: #088A4B;
+	 border-style: solid;
+	 
+	 font-family: verdana;
+
+
+}
+
+ .ct {color: white;
+ }
+  
